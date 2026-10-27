@@ -1,6 +1,6 @@
 # Ziyi Zhao · 赵子奕
-产品 / 用户研究 / AI 应用
-Product · User Research · AI Applications
+产品策划 / 用户研究 / AI 应用
+Product Planning · User Research · AI Applications
 
 I build AI products with boundaries — real workflows, not chatboxes.
 我做有边界感的 AI 产品：能点开、有工作流，该停的时候会停。
