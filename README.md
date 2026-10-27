@@ -36,8 +36,8 @@ AI 出草稿、人工确认才写入；没有 API Key 也能用——把 AI 与�
 ## 玩家体验分析 / Player Experience Analysis
 
 **开心消消乐 / 假日乐消消** · 游戏体验拆解
-5 页分析：从个人观察到机制推断——步数约束、连锁反馈、提示时机、资源反馈，并给出可验证的改进方向。
-*A 5-page teardown of two match-3 games: from play observation to mechanics inference — move limits, chain feedback, hint timing, resource feedback.*
+按「设计机制 → 玩家行为 → 体验结果 → 判断与改进」的链路做 5 页分析：步数约束、连锁反馈、提示时机、资源反馈，并给出可验证的改进方向。
+*A 5-page teardown following mechanics → player behavior → experience → improvement: move limits, chain feedback, hint timing, resource feedback.*
 [PDF](https://zzz-qwq.github.io/game-ux-analysis.pdf)
 
 ## Feedback
