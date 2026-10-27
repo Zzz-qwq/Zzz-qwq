@@ -1,4 +1,4 @@
-# Ziyi Zhao · 赵子奕
+# Ziyi Zhao 
 产品策划 / 游戏策划 / 用户研究
 Product & Game Design · User Research · AI Applications
 
