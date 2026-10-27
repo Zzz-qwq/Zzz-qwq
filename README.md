@@ -1,4 +1,4 @@
-# Ziyi Zhao 
+# Ziyi Zhao · 赵子奕
 产品策划 / 游戏策划 / 用户研究
 Product & Game Design · User Research · AI Applications
 
@@ -12,25 +12,25 @@ I design systems around rules, choices, and feedback — from AI workflows to ga
 ## 工作流与决策边界 / Workflow & Decision Design
 
 **AI Employee Center** · AI 产品
-岗位化 AI 同事：3 个岗位；7 步增长工作流中，信心不足时决策按钮直接禁用，必须先补依据才能继续。
-*Role-based AI colleagues: 3 roles; in the 7-step workflow, decisions are gated until evidence is added.*
+岗位化 AI 同事：3 个岗位、7 步增长工作流。AI 对结论没把握时，决策按钮直接变灰，逼你先补一条依据；每一步可回看、可回滚。
+*Role-based AI colleagues: 3 roles, 7-step workflows. When confidence is low, the decision button is disabled until you add evidence — and every step is reversible.*
 [Live](https://zzz-qwq.github.io/ai-employee-center/) · [PRD](https://zzz-qwq.github.io/aec-prd.pdf)
 
 **Desktop Todo / 桌面待办** · 桌面工具
-AI 出草稿、人工确认才写入；没有 API Key 也能用——把 AI 与人的职责边界写进流程。
-*AI drafts, you confirm — the human/AI boundary is built into the flow; works without an API key.*
+把会议纪要、聊天记录、整段邮件丢进去，AI 拆成待办并排好优先级；写入前先给一页候选，勾选、改标题、改日期后才生效。分不清「你/我」时它会标待确认，而不是猜。
+*Paste meeting notes, chat logs or long emails: AI extracts and prioritizes tasks, but you review and edit the candidates before anything is written. If it can't tell who "you" means, it asks instead of guessing.*
 [Repo](https://github.com/Zzz-qwq/desktop-todo)
 
 ## 匹配机制与互动体验 / Mechanics & Interactive Systems
 
 **搭个伴 · 技能互换** · 产品原型
-双向匹配：发起邀请前必须写出互补理由；14 个节点串起从发布需求到完成交换的闭环。
-*Two-way matching: no invitation without a stated reason; a 14-node loop from need to completed exchange.*
+双向匹配：发起邀请前必须写出互补理由；14 个节点串起从发布需求到完成交换的闭环，其中 4 个节点标了产品决策。
+*Two-way matching: no invitation without a stated reason. A 14-node loop from posting a need to completing an exchange, with four product decisions called out.*
 [Open](https://zzz-qwq.github.io/dagoban-skill-exchange/)
 
 **乌合之帖 · Citogenesis** · 互动叙事游戏
 48 小时九幕互动叙事；用信息关系和非惩罚性选择设计体验——选错不惩罚，只让你看见一句话如何被信成事实。
-*A nine-act narrative built in 48 hours; non-punitive choices let you watch a sentence become "fact".*
+*A nine-act narrative built in 48 hours: relationship graphs and non-punitive choices let you watch a sentence become "fact".*
 [Play](https://zzz-qwq.github.io/citogenesis/) · [Video](https://zzz-qwq.github.io/citogenesis-promo.mp4)
 
 ## 玩家体验分析 / Player Experience Analysis
