@@ -1,46 +1,23 @@
-# Ziyi Zhao 
+# Ziyi Zhao
 产品策划 / 游戏策划 / 用户研究
-Product & Game Design · User Research · AI Applications
+Product & Game Design · User Research
 
-I design systems around rules, choices, and feedback — from AI workflows to game experiences.
-我关注规则、选择与反馈如何塑造体验：从 AI 工作流到游戏机制。
+I design systems around rules, choices, and feedback.
+我关注规则、选择与反馈如何塑造体验。
 
 [Portfolio](https://zzz-qwq.github.io/) · [Email](mailto:zhaoziyi1024@foxmail.com)
 
 <a href="https://zzz-qwq.github.io/"><img src="assets/portfolio.jpg" width="760" alt="Portfolio"></a>
 
-## 工作流与决策边界 / Workflow & Decision Design
+**工作流与决策边界 / Workflow & Decision Design**
+- **AI Employee Center** — 岗位化 AI 同事；没把握时决策按钮变灰，先补依据。[Live](https://zzz-qwq.github.io/ai-employee-center/) · [PRD](https://zzz-qwq.github.io/aec-prd.pdf)
+- **桌面待办 / Desktop Todo** — 长段聊天、会议记录丢给 AI，整理成带优先级的待办，确认后写入。[Repo](https://github.com/Zzz-qwq/desktop-todo)
 
-**AI Employee Center** · AI 产品
-岗位化 AI 同事：3 个岗位、7 步增长工作流。AI 对结论没把握时，决策按钮直接变灰，逼你先补一条依据；每一步可回看、可回滚。
-*Role-based AI colleagues: 3 roles, 7-step workflows. When confidence is low, the decision button is disabled until you add evidence — and every step is reversible.*
-[Live](https://zzz-qwq.github.io/ai-employee-center/) · [PRD](https://zzz-qwq.github.io/aec-prd.pdf)
+**匹配机制与互动体验 / Mechanics & Interactive Systems**
+- **搭个伴 · 技能互换** — 邀请前必须写互补理由的双向匹配。[Open](https://zzz-qwq.github.io/dagoban-skill-exchange/)
+- **乌合之帖 · Citogenesis** — 48 小时九幕互动叙事，选错不惩罚。[Play](https://zzz-qwq.github.io/citogenesis/) · [Video](https://zzz-qwq.github.io/citogenesis-promo.mp4)
 
-**Desktop Todo / 桌面待办** · 桌面工具
-把会议纪要、聊天记录、整段邮件丢进去，AI 拆成待办并排好优先级；写入前先给一页候选，勾选、改标题、改日期后才生效。分不清「你/我」时它会标待确认，而不是猜。
-*Paste meeting notes, chat logs or long emails: AI extracts and prioritizes tasks, but you review and edit the candidates before anything is written. If it can't tell who "you" means, it asks instead of guessing.*
-[Repo](https://github.com/Zzz-qwq/desktop-todo)
+**玩家体验分析 / Player Experience Analysis**
+- **开心消消乐 / 假日乐消消** — 5 页拆解：机制 → 行为 → 体验 → 改进。[PDF](https://zzz-qwq.github.io/game-ux-analysis.pdf)
 
-## 匹配机制与互动体验 / Mechanics & Interactive Systems
-
-**搭个伴 · 技能互换** · 产品原型
-双向匹配：发起邀请前必须写出互补理由；14 个节点串起从发布需求到完成交换的闭环，其中 4 个节点标了产品决策。
-*Two-way matching: no invitation without a stated reason. A 14-node loop from posting a need to completing an exchange, with four product decisions called out.*
-[Open](https://zzz-qwq.github.io/dagoban-skill-exchange/)
-
-**乌合之帖 · Citogenesis** · 互动叙事游戏
-48 小时九幕互动叙事；用信息关系和非惩罚性选择设计体验——选错不惩罚，只让你看见一句话如何被信成事实。
-*A nine-act narrative built in 48 hours: relationship graphs and non-punitive choices let you watch a sentence become "fact".*
-[Play](https://zzz-qwq.github.io/citogenesis/) · [Video](https://zzz-qwq.github.io/citogenesis-promo.mp4)
-
-## 玩家体验分析 / Player Experience Analysis
-
-**开心消消乐 / 假日乐消消** · 游戏体验拆解
-按「设计机制 → 玩家行为 → 体验结果 → 判断与改进」的链路做 5 页分析：步数约束、连锁反馈、提示时机、资源反馈，并给出可验证的改进方向。
-*A 5-page teardown following mechanics → player behavior → experience → improvement: move limits, chain feedback, hint timing, resource feedback.*
-[PDF](https://zzz-qwq.github.io/game-ux-analysis.pdf)
-
-## Feedback
-
-有建议、发现 bug，或者觉得哪个作品还能更好？[开一个 issue](https://github.com/Zzz-qwq/Zzz-qwq/issues/new) 或发邮件到 [zhaoziyi1024@foxmail.com](mailto:zhaoziyi1024@foxmail.com)。  
-*Ideas, bugs, or feedback? Open an issue or email me.*
+有建议或 bug？[开 issue](https://github.com/Zzz-qwq/Zzz-qwq/issues/new) 或 [邮件](mailto:zhaoziyi1024@foxmail.com)。
